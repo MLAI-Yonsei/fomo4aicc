@@ -4,7 +4,7 @@
 
 ---
 
-![figure_aboutdata_ver0 5](https://github.com/hybyun0121/AICC_audio_dataset/assets/63500940/2ba71f38-9f23-47eb-95e2-18bcd1e1e47d)
+![data_structure](https://github.com/hybyun0121/AICC_audio_dataset/assets/63500940/7099d3d0-5e56-4b72-9620-cf53945834e6)
 
 ### Dataset statistics
 
