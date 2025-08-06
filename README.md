@@ -3,7 +3,7 @@ This repository contains the code for the paper "Exploring the Potential of Foun
 
 ## Dataset
 ### Audio data
-Please refer this repository for download the audio data: https://anonymous.4open.science/r/AICC_audio_dataset-C2E6
+Please refer this repository for download the audio data: https://drive.google.com/drive/folders/15HPIDhIwHi6-eEz3yK5DkFeBviAnZy2m?usp=drive_link
 ### Script data
 ```
 ./data/script
